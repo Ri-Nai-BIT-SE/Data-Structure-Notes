@@ -6,10 +6,6 @@ titleTemplate: "数据结构与算法设计学习笔记"
 hero:
   name: "数据结构与算法设计"
   text: "复习笔记"
-  tagline: "深入理解数据结构原理，掌握算法设计精髓"
-  image:
-    src: /imgs/数据结构.png
-    alt: 数据结构与算法
   actions:
     - theme: brand
       text: 开始学习
